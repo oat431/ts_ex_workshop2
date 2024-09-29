@@ -1,0 +1,22 @@
+{
+  "name": "second_ts_workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc && node dist/index.js",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "second_ts_workshop": "file:"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}

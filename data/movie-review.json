@@ -1,0 +1,92 @@
+[
+  {
+    "id": "7a9f51f8-892d-4ba8-926d-5d876f7a3a6f",
+    "username": "movieFan123",
+    "rating": 4.5,
+    "comment": "Loved the visuals and the storyline. A must-watch!"
+  },
+  {
+    "id": "c8293b37-dc2d-4677-b229-6f54d3086a6b",
+    "username": "cinemaLover",
+    "rating": 3.8,
+    "comment": "Good movie but the pacing was a bit slow in the middle."
+  },
+  {
+    "id": "2fcbdb19-d37c-4706-a8e1-61fa8cc86750",
+    "username": "johnnyD",
+    "rating": 5,
+    "comment": "An absolute masterpiece! Brilliant acting and direction."
+  },
+  {
+    "id": "a8b5a6a9-459b-4865-bcd2-d7e6b6a3646b",
+    "username": "filmBuff",
+    "rating": 2.9,
+    "comment": "Disappointed with the plot. Expected much more from the trailer."
+  },
+  {
+    "id": "48c4b017-fabb-4a79-9118-1fdcf9e07872",
+    "username": "sarahK",
+    "rating": 4,
+    "comment": "Great character development but could have been shorter."
+  },
+  {
+    "id": "b616c52a-f5e7-463a-89d9-7e8e2be92432",
+    "username": "cinemaJunkie",
+    "rating": 4.7,
+    "comment": "The cinematography was breathtaking. Definitely a visual treat!"
+  },
+  {
+    "id": "ec0dcb55-f774-471e-ae6d-759b41671858",
+    "username": "criticPro",
+    "rating": 3.5,
+    "comment": "Decent movie, but lacked depth in some parts."
+  },
+  {
+    "id": "ff8a6f8c-4e32-4bb2-9cbb-9f36ab3b8e1a",
+    "username": "janeD",
+    "rating": 4.3,
+    "comment": "Loved the performances, especially from the lead actor."
+  },
+  {
+    "id": "2c5b0bb2-0f87-4aa2-86b5-0e84e94dbb73",
+    "username": "actionFanatic",
+    "rating": 4.8,
+    "comment": "Non-stop action! I was on the edge of my seat the whole time."
+  },
+  {
+    "id": "1c654f9b-cb39-4f7c-81fc-498d04cf158a",
+    "username": "mikeReviews",
+    "rating": 3.2,
+    "comment": "Some good moments, but overall a bit underwhelming."
+  },
+  {
+    "id": "60e2739f-1d9a-45f5-88a3-2e636b2b2e21",
+    "username": "filmGeek",
+    "rating": 5,
+    "comment": "One of the best films of the year. Exceptional in every way."
+  },
+  {
+    "id": "284d18a2-3401-40ec-9d57-82c0b4934694",
+    "username": "hannahS",
+    "rating": 4.2,
+    "comment": "Really enjoyed it. The soundtrack was amazing!"
+  },
+  {
+    "id": "4383c112-5396-45d0-8e07-9e177b9c3baf",
+    "username": "movieCritic",
+    "rating": 3.7,
+    "comment": "Solid movie, but it felt a little predictable at times."
+  },
+  {
+    "id": "c45f79d5-f5a1-4f76-9dbd-8d15eb7e612e",
+    "username": "alexMovie",
+    "rating": 4.6,
+    "comment": "Fantastic movie with great special effects and emotional depth."
+  },
+  {
+    "id": "aa6a7a56-fef6-43b1-bdb7-c34b9fd5a5c0",
+    "username": "filmLover92",
+    "rating": 2.5,
+    "comment": "Not my cup of tea. The story didn't quite capture my attention."
+  }
+]
